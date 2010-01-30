@@ -1,0 +1,204 @@
+TSimpleSIMBL
+v7
+r0
+t279780437.417704
+cCheck dependencies
+cProcessInfoPlistFile /Users/Jason/Desktop/SimpleSIMBL/build/Debug/SimpleSIMBL.bundle/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/Jason/Desktop/SimpleSIMBL/build/Debug/SimpleSIMBL.bundle/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cProcessPCH /var/folders/Vp/VpXk7jWFErOhGvlIweFWJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleSIMBL_Prefix-dbfairmzldxfflelotmjyzzzgcuk/SimpleSIMBL_Prefix.pch.gch SimpleSIMBL_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/Objects-normal/x86_64/PluginLoader.o /Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/Objects-normal/x86_64/SearchSaver.o /Users/Jason/Desktop/SimpleSIMBL/SearchSaver.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/Jason/Desktop/SimpleSIMBL/English.lproj/InfoPlist.strings
+c000000004AFCB84C0000000000000030
+t1258076236
+s48
+
+N/Users/Jason/Desktop/SimpleSIMBL/PluginLoader.h
+c000000004AFCD84900000000000000DA
+t1258084425
+s218
+i<Cocoa/Cocoa.h>
+
+N/Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m
+c000000004AFCDA8C000000000000020E
+t1258085004
+s526
+i"PluginLoader.h"
+
+N/Users/Jason/Desktop/SimpleSIMBL/SearchSaver.h
+c000000004AFCE3D1000000000000019C
+t1258087377
+s412
+i<Cocoa/Cocoa.h>
+i"WebSearchField.h"
+
+N/Users/Jason/Desktop/SimpleSIMBL/SearchSaver.m
+c000000004AFCE4CA00000000000005E4
+t1258087626
+s1508
+i"SearchSaver.h"
+
+N/Users/Jason/Desktop/SimpleSIMBL/SimpleSIMBLE.h
+c000000004AFCD80A00000000000000DA
+t1258084362
+s218
+i<Cocoa/Cocoa.h>
+
+N/Users/Jason/Desktop/SimpleSIMBL/SimpleSIMBLE.m
+c000000004AFCD80A00000000000000D0
+t1258084362
+s208
+i"SimpleSIMBLE.h"
+
+N/Users/Jason/Desktop/SimpleSIMBL/SimpleSIMBL_Prefix.pch
+c000000004AFCB84C000000000000009A
+t1258076236
+s154
+i<Cocoa/Cocoa.h>
+
+N/Users/Jason/Desktop/SimpleSIMBL/WebSearchField.h
+c000000004AFB29B5000000000000058E
+t1257974197
+s1422
+i"NSSearchField.h"
+
+N/Users/Jason/Desktop/SimpleSIMBL/build/Debug/SimpleSIMBL.bundle
+t2
+s0
+
+N/Users/Jason/Desktop/SimpleSIMBL/build/Debug/SimpleSIMBL.bundle/Contents/Info.plist
+t1258087629
+s726
+
+N/Users/Jason/Desktop/SimpleSIMBL/build/Debug/SimpleSIMBL.bundle/Contents/MacOS/SimpleSIMBL
+t2
+s0
+
+N/Users/Jason/Desktop/SimpleSIMBL/build/Debug/SimpleSIMBL.bundle/Contents/Resources/English.lproj/InfoPlist.strings
+t1258087629
+s92
+
+N/Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/Objects-normal/x86_64/PluginLoader.o
+t1258087637
+s14952
+
+N/Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/Objects-normal/x86_64/SearchSaver.o
+t2
+s0
+
+N/Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/Objects-normal/x86_64/SimpleSIMBL.LinkFileList
+c000000004AFCE4CD00000000000000EB
+t1258087629
+s235
+
+N/Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/Objects-normal/x86_64/SimpleSIMBLE.o
+t2
+s0
+
+N/var/folders/Vp/VpXk7jWFErOhGvlIweFWJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleSIMBL_Prefix-dbfairmzldxfflelotmjyzzzgcuk/SimpleSIMBL_Prefix.pch.gch
+t1258087636
+s54212368
+
+NInfo.plist
+c000000004AFCB84C0000000000000357
+t1258076236
+s855
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies279780429#279780429#0(0"0(0#1#0"31244212048494624#0"0#
+
+CCompileC build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/Objects-normal/x86_64/PluginLoader.o /Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s279780437.078246
+e279780437.417422
+r1
+xCompileC
+xbuild/SimpleSIMBL.build/Debug/SimpleSIMBL.build/Objects-normal/x86_64/PluginLoader.o
+x/Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m: In function '+[PluginLoader load]':
+o/Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m:16: warning: 'PluginLoader' may not respond to '+sharedInstance'
+o/Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m:16: warning: (Messages without a matching method signature
+o/Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m:16: warning: will be assumed to return 'id' and accept
+o/Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m:16: warning: '...' as arguments.)
+o/Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m:20: warning: 'NSButton' may not respond to '+swizzleMethods'
+o/Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m:16: warning: unused variable 'plugin'
+lSLF07#2@55"Compile /Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m279780437#279780437#0(685"/Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m: In function '+[PluginLoader load]':/Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m:16: warning: 'PluginLoader' may not respond to '+sharedInstance'/Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m:16: warning: (Messages without a matching method signature/Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m:16: warning: will be assumed to return 'id' and accept/Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m:16: warning: '...' as arguments.)/Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m:20: warning: 'NSButton' may not respond to '+swizzleMethods'/Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m:16: warning: unused variable 'plugin'4(22@51"'PluginLoader' may not respond to '+sharedInstance'279780437#85#113#0(6@47"/Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m279777804#16#0#16#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)279780437#198#107#0(6@47"/Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m279777804#16#0#16#0#0"0(22@47"'NSButton' may not respond to '+swizzleMethods'279780437#490#109#0(6@47"/Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m279777804#20#0#20#0#26"'*' may not respond to '*'0(22@24"Unused variable 'plugin'279780437#599#86#0(6@47"/Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m279777804#16#0#16#0#19"unused variable '*'0(0#0#47"/Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m4300885448#1480"    cd /Users/Jason/Desktop/SimpleSIMBL    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/SimpleSIMBL-generated-files.hmap -I/Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/SimpleSIMBL-own-target-headers.hmap -I/Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/SimpleSIMBL-all-target-headers.hmap -iquote /Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/SimpleSIMBL-project-headers.hmap -F/Users/Jason/Desktop/SimpleSIMBL/build/Debug -I/Users/Jason/Desktop/SimpleSIMBL/build/Debug/include -I/Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/DerivedSources/x86_64 -I/Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/DerivedSources -include /var/folders/Vp/VpXk7jWFErOhGvlIweFWJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleSIMBL_Prefix-dbfairmzldxfflelotmjyzzzgcuk/SimpleSIMBL_Prefix.pch -c /Users/Jason/Desktop/SimpleSIMBL/PluginLoader.m -o /Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/Objects-normal/x86_64/PluginLoader.o0#
+
+CCompileC build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/Objects-normal/x86_64/SearchSaver.o /Users/Jason/Desktop/SimpleSIMBL/SearchSaver.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s279780437.079222
+e279780437.392600
+r0
+xCompileC
+xbuild/SimpleSIMBL.build/Debug/SimpleSIMBL.build/Objects-normal/x86_64/SearchSaver.o
+x/Users/Jason/Desktop/SimpleSIMBL/SearchSaver.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Jason/Desktop/SimpleSIMBL/SearchSaver.h:10,
+o                 from /Users/Jason/Desktop/SimpleSIMBL/SearchSaver.m:9:
+o/Users/Jason/Desktop/SimpleSIMBL/WebSearchField.h:7:26: error: NSSearchField.h: No such file or directory
+oIn file included from /Users/Jason/Desktop/SimpleSIMBL/SearchSaver.m:9:
+o/Users/Jason/Desktop/SimpleSIMBL/SearchSaver.h:14: error: cannot find interface declaration for 'WebSearchFeild'
+lSLF07#2@54"Compile /Users/Jason/Desktop/SimpleSIMBL/SearchSaver.m279780437#279780437#0(436"In file included from /Users/Jason/Desktop/SimpleSIMBL/SearchSaver.h:10,                 from /Users/Jason/Desktop/SimpleSIMBL/SearchSaver.m:9:/Users/Jason/Desktop/SimpleSIMBL/WebSearchField.h:7:26: error: NSSearchField.h: No such file or directoryIn file included from /Users/Jason/Desktop/SimpleSIMBL/SearchSaver.m:9:/Users/Jason/Desktop/SimpleSIMBL/SearchSaver.h:14: error: cannot find interface declaration for 'WebSearchFeild'2(4@42"NSSearchField.h: No such file or directory279780437#145#106#3(7@68"In file included from /Users/Jason/Desktop/SimpleSIMBL/SearchSaver.m279780437#18446744073709551615#0#0(6@46"/Users/Jason/Desktop/SimpleSIMBL/SearchSaver.m279780426#9#0#9#0#0"0(7@68"In file included from /Users/Jason/Desktop/SimpleSIMBL/SearchSaver.h279780437#18446744073709551615#0#0(6@46"/Users/Jason/Desktop/SimpleSIMBL/SearchSaver.h279780177#10#0#10#0#0"0(13@95"NSSearchField.h: No such file or directory in /Users/Jason/Desktop/SimpleSIMBL/WebSearchField.h279780437#18446744073709551615#0#0(6@49"/Users/Jason/Desktop/SimpleSIMBL/WebSearchField.h279666997#7#0#7#0#0"0(6@49"/Users/Jason/Desktop/SimpleSIMBL/WebSearchField.h279666997#7#0#7#0#28"*: No such file or directory0(4@54"Cannot find interface declaration for 'WebSearchFeild'279780437#323#113#2(7@68"In file included from /Users/Jason/Desktop/SimpleSIMBL/SearchSaver.m279780437#18446744073709551615#0#0(6@46"/Users/Jason/Desktop/SimpleSIMBL/SearchSaver.m279780426#9#0#9#0#0"0(13@104"Cannot find interface declaration for 'WebSearchFeild' in /Users/Jason/Desktop/SimpleSIMBL/SearchSaver.h279780437#18446744073709551615#0#0(6@46"/Users/Jason/Desktop/SimpleSIMBL/SearchSaver.h279780177#14#0#14#0#0"0(6@46"/Users/Jason/Desktop/SimpleSIMBL/SearchSaver.h279780177#14#0#14#0#0"0(0#0#46"/Users/Jason/Desktop/SimpleSIMBL/SearchSaver.m4300885448#1478"    cd /Users/Jason/Desktop/SimpleSIMBL    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/SimpleSIMBL-generated-files.hmap -I/Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/SimpleSIMBL-own-target-headers.hmap -I/Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/SimpleSIMBL-all-target-headers.hmap -iquote /Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/SimpleSIMBL-project-headers.hmap -F/Users/Jason/Desktop/SimpleSIMBL/build/Debug -I/Users/Jason/Desktop/SimpleSIMBL/build/Debug/include -I/Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/DerivedSources/x86_64 -I/Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/DerivedSources -include /var/folders/Vp/VpXk7jWFErOhGvlIweFWJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleSIMBL_Prefix-dbfairmzldxfflelotmjyzzzgcuk/SimpleSIMBL_Prefix.pch -c /Users/Jason/Desktop/SimpleSIMBL/SearchSaver.m -o /Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/Objects-normal/x86_64/SearchSaver.o1#
+
+CCompileC build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/Objects-normal/x86_64/SimpleSIMBLE.o /Users/Jason/Desktop/SimpleSIMBL/SimpleSIMBLE.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCopyStringsFile /Users/Jason/Desktop/SimpleSIMBL/build/Debug/SimpleSIMBL.bundle/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s279780429.291706
+e279780429.746877
+r1
+xCopyStringsFile
+x/Users/Jason/Desktop/SimpleSIMBL/build/Debug/SimpleSIMBL.bundle/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings279780429#279780429#0(0"0(0#0#64"/Users/Jason/Desktop/SimpleSIMBL/English.lproj/InfoPlist.strings4300885448#360"    cd /Users/Jason/Desktop/SimpleSIMBL    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/Jason/Desktop/SimpleSIMBL/build/Debug/SimpleSIMBL.bundle/Contents/Resources/English.lproj0#
+
+CLd /Users/Jason/Desktop/SimpleSIMBL/build/Debug/SimpleSIMBL.bundle/Contents/MacOS/SimpleSIMBL normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/Jason/Desktop/SimpleSIMBL/build/Debug/SimpleSIMBL.bundle/Contents/Info.plist Info.plist
+s279780429.207233
+e279780429.291601
+r1
+xProcessInfoPlistFile
+x/Users/Jason/Desktop/SimpleSIMBL/build/Debug/SimpleSIMBL.bundle/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist279780429#279780429#0(0"0(0#0#43"/Users/Jason/Desktop/SimpleSIMBL/Info.plist28429436511584364#205"    cd /Users/Jason/Desktop/SimpleSIMBL    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/Jason/Desktop/SimpleSIMBL/build/Debug/SimpleSIMBL.bundle/Contents/Info.plist0#
+
+CProcessPCH /var/folders/Vp/VpXk7jWFErOhGvlIweFWJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleSIMBL_Prefix-dbfairmzldxfflelotmjyzzzgcuk/SimpleSIMBL_Prefix.pch.gch SimpleSIMBL_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s279780429.747144
+e279780437.078091
+r1
+xProcessPCH
+x/var/folders/Vp/VpXk7jWFErOhGvlIweFWJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleSIMBL_Prefix-dbfairmzldxfflelotmjyzzzgcuk/SimpleSIMBL_Prefix.pch.gch
+xSimpleSIMBL_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile SimpleSIMBL_Prefix.pch279780429#279780437#0(0"0(0#0#55"/Users/Jason/Desktop/SimpleSIMBL/SimpleSIMBL_Prefix.pch4300885448#1372"    cd /Users/Jason/Desktop/SimpleSIMBL    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/SimpleSIMBL-generated-files.hmap -I/Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/SimpleSIMBL-own-target-headers.hmap -I/Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/SimpleSIMBL-all-target-headers.hmap -iquote /Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/SimpleSIMBL-project-headers.hmap -F/Users/Jason/Desktop/SimpleSIMBL/build/Debug -I/Users/Jason/Desktop/SimpleSIMBL/build/Debug/include -I/Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/DerivedSources/x86_64 -I/Users/Jason/Desktop/SimpleSIMBL/build/SimpleSIMBL.build/Debug/SimpleSIMBL.build/DerivedSources -c /Users/Jason/Desktop/SimpleSIMBL/SimpleSIMBL_Prefix.pch -o /var/folders/Vp/VpXk7jWFErOhGvlIweFWJE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleSIMBL_Prefix-dbfairmzldxfflelotmjyzzzgcuk/SimpleSIMBL_Prefix.pch.gch0#
+
+CTouch /Users/Jason/Desktop/SimpleSIMBL/build/Debug/SimpleSIMBL.bundle
+r0
+

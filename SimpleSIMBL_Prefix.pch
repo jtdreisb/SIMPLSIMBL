@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'SimpleSIMBL' target in the 'SimpleSIMBL' project.
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
